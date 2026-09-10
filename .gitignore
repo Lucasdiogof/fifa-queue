@@ -89,3 +89,6 @@ docs/final_data/output/
 .claude/
 .agents/
 skills-lock.json
+
+# FVM Version Cache
+.fvm/
